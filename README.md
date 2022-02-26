@@ -1,28 +1,28 @@
 Estudiante: Juan Bautista Fernandez Hidalgo
 Carnet: 2017100691
 
- Un usuario de telefonía móvil se encuentra en un auto en movimiento a 30 kms por
+1- Un usuario de telefonía móvil se encuentra en un auto en movimiento a 30 kms por
 hora, el mismo cruza el límite de una celda y de pronto la llamada actual se detiene
 de forma repentina, asumiendo que todo el sistema se encuentra funcionando de
 forma adecuada, ¿Por qué razón la llamada se detiene?
 
 Esto probablemente ocurrió por un fallo al encontrar una nueva celda por la plataforma de telefonía o un problema encontrado por el teléfono para adaptarse a su nueva línea.
 
-¿Explique de forma concisa por qué la transmisión de ondas de baja frecuencia no es práctica en medios inalámbricos?
+2- ¿Explique de forma concisa por qué la transmisión de ondas de baja frecuencia no es práctica en medios inalámbricos?
 
 Creo existen múltiples razones una de las más importantes siendo el tamaño de las antenas necesarias para recibir ondas de frecuencias más bajas, otra razón que podemos ver es que se puede transportar mas información utilizando frecuencias más altas y finalmente las frecuencias más altas con frecuencias que previamente estaban desocupadas mientras que la radio por ejemplo tomo frecuencias más bajas para ellos.
 
 
-Ante una crisis como conflicto bélico o un desastre natural, que daña o afecta los
+3- Ante una crisis como conflicto bélico o un desastre natural, que daña o afecta los
 canales de comunicación o infraestructura de un país, ¿Qué tipo de transmisión recomendaría a ese país para mantener comunicación con el resto del mundo? Explique.
 
 Probablemente canales de radio de frecuencia media-bajas por el costo que tiene el equipo para instalarlo y el rango que estas pueden llegar a alcanzar.
 
-Explique el concepto ancho de banda en telecomunicaciones.
+4- Explique el concepto ancho de banda en telecomunicaciones.
 
 El ancho de banda es la propiedad de un  medio que refleja el rango de frecuencias que pueden pasar por ese medio con mínima atenuación, medido en Hz este usualmente va de 0 a un x donde x es la frecuencia más alta. 
 
-Explique las diferencias entre conmutación de paquetes y conmutación de circuitos.
+5- Explique las diferencias entre conmutación de paquetes y conmutación de circuitos.
 
 En la comunicación de paquetes el envio de informacion inicia antes de que exista una línea de comunicación física asignada, estos paquetes se quedan esperando en una cola por así decirlo esperando que se le asigne un medio por el cual pasar, lo malo de esto es que el medio por el que pasa se puede llegar a congestionar causando demoras mientras que en la conmutación de circuitos una vez se establece una conexión no debería existir demora alguna. 
 
